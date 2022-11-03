@@ -1,0 +1,75 @@
+#nuevo{
+    font-size: small;
+    color: grey;
+}
+
+#precio-anterior{
+    color: gray;
+    text-decoration: line-through;
+}
+#oferta{
+    background-color:dodgerblue;
+    color: white;
+    font-weight: 500;
+    padding: 2px;
+    border-radius: 4px;
+    font-size: small;
+}
+a{
+    text-decoration: none;
+    color: dodgerblue;
+}
+#boton-comprar{
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px;
+    border-radius:6px;
+    border-color: dodgerblue;
+    border: 0cm;
+
+    font-weight: 500;
+    margin-right: 0.2em;
+
+}
+#estrellas{
+    color: dodgerblue;
+    font-size: 1.5em;
+}
+#boton-anadir{
+    background-color:lightcyan;
+    padding: 15px;
+    border-radius:6px;
+    border-color: lightcyan;
+
+    border: 0cm;
+    color: dodgerblue;
+    font-weight: 500;
+
+}
+#producto .texto{
+    width: 50%;
+    text-align: initial;
+    max-width: 600px;
+    padding-left: 30px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+h2{
+    font-weight: 400;
+}
+#opiniones{
+    color: dodgerblue;
+    font-size: 1.2em;
+
+}
+.card{
+    padding: 1.3em;
+}
+#corazon{
+    color: dodgerblue;
+    font-size: 4em;
+    text-align: end;
+}
